@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+a {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;
+}
+
+@media (max-width: 764px) {
+  .main-section main {
+    width: 100%;
+    height: 100%;
+    padding: 0 1.3rem;
+    border-radius: 0;
+  }
+}
+.main-section {
+  background: url("../../assest/img/emmanuel-ikwuegbu-h5xEHzfepNk-unsplash.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-section main {
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 65%;
+  height: 70%;
+  padding: 0 2rem;
+  border-radius: 2rem;
+}
+.main-section span {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.main-section .quiz {
+  font-size: 5rem;
+  color: rgb(44, 212, 44);
+}
+.main-section h1 {
+  margin-bottom: 3rem;
+  text-align: center;
+  color: #f8f8f8;
+  font-size: 48px;
+}
+.main-section .button-container {
+  width: 100%;
+}
+.main-section .button-container a {
+  background-color: rgb(44, 212, 44);
+  padding: 1.3rem;
+  color: white;
+  font-size: 24px;
+  display: block;
+  border-radius: 35px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.main-section .button-container a:hover {
+  background-color: #23aa23;
+}
+.main-section .container-authn {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.main-section .container-authn a {
+  color: white;
+  border-radius: 35px;
+  width: 45%;
+  padding: 0.5rem 0;
+  text-align: center;
+  font-size: 24px;
+}
+.main-section .container-authn .login {
+  background-color: orangered;
+}
+.main-section .container-authn .login:hover {
+  background-color: #cc3700;
+}
+.main-section .container-authn .register {
+  border: orangered 1px solid;
+}
+.main-section .container-authn .register:hover {
+  background-color: #cc3700;
+  border: none;
+}/*# sourceMappingURL=styles.css.map */

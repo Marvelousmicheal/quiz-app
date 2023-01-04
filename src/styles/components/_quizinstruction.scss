@@ -1,0 +1,72 @@
+.instruction{
+height: auto;
+width: 90vw;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border-left: 2px solid $green;
+margin: $medium auto;
+padding:  0 $medium;
+*{
+    margin-bottom: $x-small;
+    text-transform: capitalize;
+}
+.img{
+    margin-top: $normal;
+    width: inherit;
+    height: 20rem;
+    background-color: $light-green;
+}
+h1{
+  font-size: $large;
+  color: $light-black; 
+
+
+}
+p{
+    font-size: $normal;
+  color:$light-black;
+
+
+}
+.lifeline-icon,.hint-icon{
+    color: $green;
+    font-size: $normal;
+    margin:0  $x-small;
+    cursor: pointer;
+}
+#sublist {
+
+margin-top: $x-small;
+li {
+list-style-type: none;
+margin-left: $normal;
+
+}
+}
+.action-link{
+width:100%;
+text-align: center;
+ 
+    .left {
+        
+            float: left;
+            border-bottom: 1px solid $green;
+            padding-bottom: 2px;
+        }
+    
+        .right {
+    
+            float: right;
+            a {
+                    color: $green;
+                }
+        }
+        .right a:hover{
+color: $light-black;
+        }
+            
+}
+
+}

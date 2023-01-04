@@ -1,0 +1,8 @@
+@media (max-width:$mediumScreen) {
+    .main-section main{
+        width: 100%;
+        height: 100%;
+        padding: 0 $normal;
+        border-radius: 0;
+    }
+}
