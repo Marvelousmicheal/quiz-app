@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is a 'bug' in computer programming?",
+
+    "answers1": "A small, insect-like creature that can cause problems in computer programs",
+    "answers2": "A common term for a problem or error in a computer program",
+    "answers3": "A type of computer virus that infects program code",
+    "answers4": "A piece of code that is intentionally inserted to cause problems in a program",
+    "correctAnswer": "A common term for a problem or error in a computer program"
+  },
+  {
+    "question": "What is the function of a 'compiler'?",
+
+    "answers1": "To run and execute a computer program",
+    "answers2": "To translate a program written in a high-level language into a lower-level language",
+    "answers3": "To make a computer program easier to read and understand",
+    "answers4": "To debug and fix errors in a computer program",
+    "correctAnswer": "To translate a program written in a high-level language into a lower-level language"
+  },
+  {
+    "question": "What is a 'syntax error'?",
+
+    "answers1": "An error in the logic of a computer program",
+    "answers2": "A typo or spelling mistake in a computer program",
+    "answers3": "An error in the structure of a program, such as a missing bracket or semicolon",
+    "answers4": "A virus that infects a computer program",
+    "correctAnswer": "An error in the structure of a program, such as a missing bracket or semicolon"
+  },
+  {
+    "question": "What is the difference between 'static' and 'dynamic' typing?",
+
+    "answers1": "Static typing refers to compiled languages, while dynamic typing refers to interpreted languages",
+    "answers2": "Static typing refers to languages where the type of a variable is determined at runtime, while dynamic typing refers to languages where the type of a variable is determined at compile time",
+    "answers3": "Static typing refers to strongly-typed languages, while dynamic typing refers to weakly-typed languages",
+    "answers4": "Static typing refers to languages with strict type checking, while dynamic typing refers to languages with lax type checking",
+    "correctAnswer": "Static typing refers to languages where the type of a variable is determined at compile time, while dynamic typing refers to languages where the type of a variable is determined at runtime"
+  },
+  {
+    "question": "What is the 'cloud'?",
+
+    "answers1": "A group of interconnected computers and servers that can be accessed over the internet",
+    "answers2": "A type of computer hardware that is specifically designed for use in internet-based applications",
+    "answers3": "A software application that allows users to access and manage remote servers and data",
+    "answers4": "A term used to describe the internet itself",
+    "correctAnswer": "A group of interconnected computers and servers that can be accessed over the internet"
+  },
+  {
+    "question": "What is a 'database'?",
+
+    "answers1": "A collection of related data stored and accessed electronically",
+    "answers2": "A computer program used for storing and organizing data",
+    "answers3": "A system for storing and retrieving data from a computer's memory",
+    "answers4": "A type of computer hardware that is specifically designed for storing data",
+    "correctAnswer": "A collection of related data stored and accessed electronically"
+  },
+
+  {
+    "question": "What is a 'bug' in computer programming?",
+
+    "answers1": "A small, insect-like creature that can cause problems in computer programs",
+    "answers2": "A common term for a problem or error in a computer program",
+    "answers3": "A type of computer virus that infects program code",
+    "answers4": "A piece of code that is intentionally inserted to cause problems in a program",
+    "correctAnswer": "A common term for a problem or error in a computer program"
+  },
+  {
+    "question": "What is the function of a 'compiler'?",
+
+    "answers1": "To run and execute a computer program",
+    "answers2": "To translate a program written in a high-level language into a lower-level language",
+    "answers3": "To make a computer program easier to read and understand",
+    "answers4": "To debug and fix errors in a computer program",
+    "correctAnswer": "To translate a program written in a high-level language into a lower-level language"
+  },
+  {
+    "question": "What is a 'syntax error'?",
+
+    "answers1": "An error in the logic of a computer program",
+    "answers2": "A typo or spelling mistake in a computer program",
+    "answers3": "An error in the structure of a program, such as a missing bracket or semicolon",
+    "answers4": "A virus that infects a computer program",
+    "correctAnswer": "An error in the structure of a program, such as a missing bracket or semicolon"
+  },
+  {
+    "question": "What is the difference between 'static' and 'dynamic' typing?",
+
+    "answers1": "Static typing refers to compiled languages, while dynamic typing refers to interpreted languages",
+    "answers2": "Static typing refers to languages where the type of a variable is determined at runtime, while dynamic typing refers to languages where the type of a variable is determined at compile time",
+    "answers3": "Static typing refers to strongly-typed languages, while dynamic typing refers to weakly-typed languages",
+    "answers4": "Static typing refers to languages with strict type checking, while dynamic typing refers to languages with lax type checking",
+    "correctAnswer": "Static typing refers to languages where the type of a variable is determined at compile time, while dynamic typing refers to languages where the type of a variable is determined at runtime"
+  },
+  {
+    "question": "What is the 'cloud'?",
+
+    "answers1": "A group of interconnected computers and servers that can be accessed over the internet",
+    "answers2": "A type of computer hardware that is specifically designed for use in internet-based applications",
+    "answers3": "A software application that allows users to access and manage remote servers and data",
+    "answers4": "A term used to describe the internet itself",
+    "correctAnswer": "A group of interconnected computers and servers that can be accessed over the internet"
+  }
+]

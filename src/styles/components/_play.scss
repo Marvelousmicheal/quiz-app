@@ -2,8 +2,8 @@
   background-color: $light-white;
   border: 2px solid $green;
   width: 90vw;
-  margin: $normal auto;
-  padding: $normal;
+  margin: $normal auto 0;
+  padding: $small $small $x-small $small;
 
   * {
     margin-bottom: $x-small;
@@ -55,8 +55,7 @@ h2{
   .btn-container {
       display: flex;
       justify-content: flex-start;
-      margin: o auto $normal;
-      padding: $small;
+      padding: $x-small;
       width: 80%;
 
   }
@@ -88,4 +87,27 @@ h2{
 .btn-container button:last-child:hover{
     background-color: darken($color: red, $amount: 40%);
 }
+}
+
+.toast-vaild{
+  background-color: $green;
+  border-radius:5px;
+  color: $light-white;
+  width:auto;
+  padding:$normal;
+  z-index: 4;
+  position: absolute;
+  right:70px;
+  top:300px;
+}
+.toast-invaild{
+  background-color: red;
+  border-radius:5px;
+  color: $light-white;
+  width:auto;
+  padding:$normal;
+  z-index: 4;
+  position: absolute;
+  right:70px;
+  top:300px;
 }
