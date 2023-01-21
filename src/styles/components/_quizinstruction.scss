@@ -8,6 +8,7 @@ flex-direction: column;
 border-left: 2px solid $green;
 margin: $medium auto;
 padding:  0 $medium;
+background-color: white;
 *{
     margin-bottom: $x-small;
     text-transform: capitalize;
@@ -31,7 +32,7 @@ p{
 
 }
 .lifeline-icon,.hint-icon{
-    color: $green;
+    color: $green !important;
     font-size: $normal;
     margin:0  $x-small;
     cursor: pointer;
